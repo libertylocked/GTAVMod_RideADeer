@@ -11,7 +11,7 @@ The updated version of Ride A Deer.
 
 ## Installation
 1. If you have not already created the 'scripts' folder in your GTAV directory, do so now.
-2. Place the .CS file downloaded from this mod page into the 'scripts' folder.
+2. Place the .DLL file downloaded from this mod page into the 'scripts' folder.
 3. Run GTA, follow instructions below.
 
 ## Features 
