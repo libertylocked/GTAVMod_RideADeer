@@ -1,0 +1,17 @@
+# Default Control Setup
+# key docs: https://msdn.microsoft.com/en-us/library/system.windows.forms.keys%28v=vs.110%29.aspx
+# Updated by Libertylocked
+# Original script by XBLToothPik, ap ii intense <3
+# RideADeer
+
+.Keys
+Activate = NumPad7
+SpawnDeer = NumPad4
+GetOnOffDeer = F
+
+.Settings
+ShowMoveMarker = false
+DeerCanRagDoll = false
+DeerInvincible = true
+DeerWalkSpeed = 2.0
+DeerRunSpeed = 3.0
